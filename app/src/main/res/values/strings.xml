@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Purba Dairy</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">close</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Liquid Milk</item>
+        <item>Sweets</item>
+        <item>Curd</item>
+    </string-array>
+</resources>
